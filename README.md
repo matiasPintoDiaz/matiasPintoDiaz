@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, Nice to meet you! 👋
+
+I'm Matías Pinto, Web developer from Chile!
+
+### Languages:
+
+* Node.js
+* Express
+* Javascript
+* React.js
+* PostgreSQL
 
 <!--
 **matiasPintoDiaz/matiasPintoDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
