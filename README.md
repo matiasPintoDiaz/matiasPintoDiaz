@@ -8,6 +8,8 @@ I'm Matías Pinto, Web developer from Chile!
 * Express
 * Javascript
 * React.js
+* Ruby
+* Ruby on Rails
 * PostgreSQL
 
 <!--
